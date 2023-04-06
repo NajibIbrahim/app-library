@@ -1,0 +1,26 @@
+[
+    {
+      "noSurat": "1",
+      "namaSurat": "Al-Fatihah",
+      "namaSuratArab": "al fatihah",
+      "artiNamaSurat": "Pembukaan",
+      "jumlahAyat": "7",
+      "value": "al fatihah"
+    },
+    {
+        "noSurat": "2",
+        "namaSurat": "Al-Baqoroh",
+        "namaSuratArab": "Al-Baqoroh",
+        "artiNamaSurat": "Sapi",
+        "jumlahAyat": "286",
+        "value": "al baqoroh"
+    },
+    {
+        "noSurat": "3",
+        "namaSurat": "Ali 'Imron",
+        "namaSuratArab": "Ali 'Imran",
+        "artiNamaSurat": "Keluarga Imran",
+        "jumlahAyat": "200",
+        "value": "ali imran"
+    }
+  ]
