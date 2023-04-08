@@ -1,14 +1,14 @@
 [
     {
       "title": "Dziba'",
-      "value": "dziba"
+      "route": "dziba"
     },
     {
       "title": "Barzanji",
-      "value": "barzanji"
+      "route": "barzanji"
     },
     {
       "title": "C",
-      "value": "c"
+      "route": "c"
     }
   ]

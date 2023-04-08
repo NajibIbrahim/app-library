@@ -2,16 +2,16 @@
     {
       "title": "Maulid",
       "icon": "/assets/images/menu/maulid.png",
-      "value": "maulid"
+      "route": "maulid"
     },
     {
       "title": "Al Qur'an",
       "icon": "/assets/images/menu/alquran.png",
-      "value": "alquran"
+      "route": "alquran"
     },
     {
       "title": "Do'a",
       "icon": "/assets/images/menu/doa.png",
-      "value": "doa"
+      "route": "doa"
     }
   ]
