@@ -1,12 +1,32 @@
 [
-    {
-      "latin": "Ar Rahman",
-      "arab": "الرَّحْمَنُ",
-      "terjemah": "Yang Maha Pengasih"
-    },
-    {
-        "latin": "Ar Rahman",
-        "arab": "الرَّحْمَنُ",
-        "terjemah": "Yang Maha Pengasih"
-    }
+  {
+    "arab": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+    "latin": "",
+    "terjemah": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang"
+  },
+  {
+    "arab": "اِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِيْنًاۙ ۞ لِّيَغْفِرَ لَكَ اللّٰهُ مَا تَقَدَّمَ مِنْ ذَنْۢبِكَ وَمَا تَاَخَّرَ وَيُتِمَّ نِعْمَتَهٗ عَلَيْكَ وَيَهْدِيَكَ صِرَاطًا مُّسْتَقِيْمًاۙ ۞ وَّيَنْصُرَكَ اللّٰهُ نَصْرًا عَزِيْزًا۞",
+    "latin": "Inna fatahna laka fathan mubina. Liyaghfiralakallahu ma taqaddama min dzanbika wama ta-akh-khara wa yutimma ni’matahu ‘alayka wa yahdiyaka shirathan mustaqima. Wayanshurukallaahu nashron 'aziiza.",
+    "terjemah": "Sesungguhnya Kami (Allah) telah bukakan (memberikan kemenangan) kepada kamu, pembukaan (kemenangan) yang nyata. Karena Allah akan mengampuni dosa-dosamu yang telah lalu dan yang akan datang, serta menyempurnakan nikmat-Nya (Allah) kepadamu, dan memberikan petunjuk padamu jalan yang lurus. Dan Allah akan memberikan pertolongan kepadamu dengan pertolongan yang nyata. (QS Al-Fath: 1-3)"
+  },
+  {
+    "arab": "لَقَدْ جَاۤءَكُمْ رَسُوْلٌ مِّنْ اَنْفُسِكُمْ عَزِيْزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيْصٌ عَلَيْكُمْ بِالْمُؤْمِنِيْنَ رَءُوْفٌ رَّحِيْمٌ",
+    "latin": "Laqad ja-akum rasulun min anfusikum ‘azizun ‘alayhi ma ‘anittum harishun ‘alaykum bil-mukminina raufun rahim. Fain tawallaw faqul hasbiyallahu la ilaha illa huwa ‘alayhi tawakkaltu wa huwa rabbul ‘arsyil ‘adhim.",
+    "terjemah": "Telah datang kepada kamu seorang utusan Allah dari jenis kamu sendiri, ia merasakan apa penderitaanmu, lagi sangat mengharapkan akan keselamatanmu, kepada orang yang beriman senantiasa merasa kasih sayang."
+  },
+  {
+    "arab": "فَاِنْ تَوَلَّوْا فَقُلْ حَسْبِيَ اللّٰهُ لَآ اِلٰهَ اِلَّا هُوَ ۗ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيْمِ",
+    "latin": "fa in tawallau fa qul ḥasbiyallāhu lā ilāha illā huw, 'alaihi tawakkaltu wa huwa rabbul-'arsyil-'aẓīm",
+    "terjemah": "Maka jika mereka berpaling (dari keimanan), maka katakanlah (Muhammad), “Cukuplah Allah bagiku; tidak ada tuhan selain Dia. Hanya kepada-Nya aku bertawakal, dan Dia adalah Tuhan yang memiliki ‘Arsy (singgasana) yang agung.”"
+  },
+  {
+    "arab": "اِنَّ اللّٰهَ وَمَلٰۤىِٕكَتَهٗ يُصَلُّوْنَ عَلَى النَّبِيِّۗ يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْا صَلُّوْا عَلَيْهِ وَسَلِّمُوْا تَسْلِيْمًا",
+    "latin": "Innallaha wa malaikatahu yushalluna ‘alann nabi, ya ayyuhalladzina amanu shallu ‘alayhi wa sallimu taslima",
+    "terjemah": "Sesungguhnya Allah dan para malaikat-Nya selalu bersholawat untuk Nabi, wahai orang-orang yang beriman! Bersholawat dan salamlah untuknya (Nabi Muhammad SAW)"
+  },
+  {
+    "arab": "اَللّٰهُـمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهْ",
+    "latin": "Allâhumma sholli wa sallim wa bârik ‘alaih",
+    "terjemah": "Ya Allah tetapkanlah limpahan rahmat dan salam serta keberkahan kepada Nabi Muhammad"
+  }
 ]
