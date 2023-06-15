@@ -1,12 +1,104 @@
 [
-    {
-      "latin": "Ar Rahman",
-      "arab": "الرَّحْمَنُ",
-      "terjemah": "Yang Maha Pengasih"
-    },
-    {
-        "latin": "Ar Rahman",
-        "arab": "الرَّحْمَنُ",
-        "terjemah": "Yang Maha Pengasih"
-    }
+  {
+    "judul": "الفصل الثاني : فِي التَّحْذِيْرِ مِنْ هَوَى النَّفْسِ",
+    "arab": "",
+    "latin": "",
+    "terjemah": "Bab II : Peringatan tentang bahaya hawa nafsu"
+  },
+  {
+    "judul": "",
+    "arab": "فَإِنّ أَمّارَتِ بِالسُّـوْءِ مَا اتّعَظَتْ ۞ مِنْ جَهْلِهَا بِنَذِيْرِ الشَّيْبِ وَالْهَرَمِ",
+    "latin": "",
+    "terjemah": "Sungguh nafsu amarahku pada nasehat tak terima, karena berangkat dari ketidaktahuannya. Adanya peringatan berupa uban di kepala dan ketidakberdayaan tubuh akibat umur senja."
+  },
+  {
+    "judul": "",
+    "arab": "وَلَا أَعَدَّتْ مِنَ الفِعْلِ الَجَمِيْلِ قِرَى ۞ ضَيْفٍ أَلَمَّ بِرَأْسِي غَيْرَ مُحْتَشِمِ",
+    "latin": "",
+    "terjemah": "Nafsu amarahku tak mampu bersiap-siap diri, dengan mengerjakan amal baik yang bernilai. Untuk menyambut kedatangan tamu yang pasti, tamu yang singgah di kepala nan tiada malu lagi."
+  },
+  {
+    "judul": "",
+    "arab": "لَوْ كُنْتُ أَعْلَمُ أَنِّـي مَــا أُوَقِّـرُهُ ۞ كَتَمْتُ سِرًّا بَدَا لِيْ مَنْهُ بِالْكَتَمِ",
+    "latin": "",
+    "terjemah": "Jikalau aku tahu bahwa diriku tak mampu menghormat tamu. Maka lebih baik kusembunyikan diriku dengan cara menyemir uban dikepalaku"
+  },
+  {
+    "judul": "",
+    "arab": "مَنْ لِي بِرَدِّ جِمَاحٍ مِنْ غَوَايَتِهَا ۞ كَمَا يُرَدُّ جِمَاحُ الْخَيْلِ بِاللُّجُمِ",
+    "latin": "",
+    "terjemah": "Siapakah gerangan? Sanggup mengendalikan nafsuku dari kesesatan. Sebagaimana kuda liar yang terkendalikan dengan tali kekangan"
+  },
+  {
+    "judul": "",
+    "arab": "فَلاَ تَرُمْ بِالْمَعَاصِيْ كَسْرَ شَهْوَتِهَا ۞ إِنَّ الطَّعَامَ يُقَوِّيْ شَهْوَةَ النَّهِمِ",
+    "latin": "",
+    "terjemah": "Jangan kau berharap, dapat mematahkan nafsu dengan maksiat. Karena makanan justru bisa perkuat bagi si rakus makanan lezat."
+  },
+  {
+    "judul": "",
+    "arab": "وَالنَّفْسُ كَالطِّفْلِ إِنْ تُهْمِلْهُ شَبَّ عَلَى ۞ حُبِّ الرَّضَاعِ وَإِنْ تَفْطِمْهُ يَنْفَطِمِ",
+    "latin": "",
+    "terjemah": "Nafsu bagaikan bayi, bila kau biarkan akan tetap suka menyusu. Namun bila kau sapih, maka bayi akan berhenti sendiri"
+  },
+  {
+    "judul": "",
+    "arab": "فَاصْرِفْ هَوَاهَا وَحَاذِرْ أَنْ تُوَلِّيَهُ ۞ إِنَّ الْهَوَى مَا تَوَلَّى يُصِمْ أَوْ يَصِمِ",
+    "latin": "",
+    "terjemah": "Maka palingkanlah nafsumu, takutlah jangan sampai ia menguasai-nya. Sesungguhnya nafsu, jikalau berkuasa maka akan membunuhmu dan membuatmu tercela"
+  },
+  {
+    "judul": "",
+    "arab": "وَرَاعِهَا وَهْيَ فِيْ الْأَعْمَالِ سَآئِمَةٌ ۞ وَإِنْ هِيَ اسْتَحْلَتِ الْمَرْعَى فَلَا تُسِمِ",
+    "latin": "",
+    "terjemah": "Dan gembalakanlah nafsu, karena dalam amal nafsu bagaikan hewan ternak. Jika nafsu merasa nyaman dalam kebaikan, maka tetap jaga dan jangan kau lengah"
+  },
+  {
+    "judul": "",
+    "arab": "كَمْ حَسَّنَتْ لَذّةً لِلْمَـرْءِ قَاتِلَةً ۞ مِنْ حَيْثُ لَمْ يَدْرِ أَنَّ السَّمَّ فِي الدَّسَمِ",
+    "latin": "",
+    "terjemah": "Betapa banyak kelezatan, justru bagi seseorang membawa kematian. Karena tanpa diketahui, adanya racun tersimpan dalam makanan"
+  },
+  {
+    "judul": "",
+    "arab": "وَاخْشَ الدَّسَائِسَ مِنْ جُوعٍ وَّمِنْ شَبَعِ ۞ فَرُبّ مَخْمَصَةٍ شَرُّ مِنَ التُّخَمِ",
+    "latin": "",
+    "terjemah": "Takutlah terhadap tipu dayanya lapar dan kenyang. Sebab sering terjadi rasa lapar lebih daripada kenyang"
+  },
+  {
+    "judul": "",
+    "arab": "وَاسْتَفْرِغِ الدَّمْعَ مِنْ عَيْنٍ قَدِ امْتَلَأَتْ ۞ مِنَ الْمَحَارِمِ وَالْزَمْ حِمْيَةَ النَّدَمِ",
+    "latin": "",
+    "terjemah": "Deraikanlah airmata, dari pelupuk mata yang penuh noda dosa. Peliharalah rasa sesal dan kecewa karena dosa"
+  },
+  {
+    "judul": "",
+    "arab": "وَخَالِفِ النَّفْسَ وَالشَّيْطَانَ وَاعْصِهِمَا ۞ وَإِنْ هُمَا مَحّضَاكَ النُّصْحَ فَاتَّهِمِ",
+    "latin": "",
+    "terjemah": "Lawanlah hawa nafsu dan setan durhaka, dan jagalah pada keduanya. Jika mereka tulus menasehati maka engkau harus mencurigai"
+  },
+  {
+    "judul": "",
+    "arab": "وَلاَ تُطِعْ مِنْهُمَا خَصْمًا وَلاَحَكَمًا ۞ فَأَنْتَ تَعْرِفُ كَيْدَ الخَصْمِ وَالْحَكَمِ",
+    "latin": "",
+    "terjemah": "Janganlah engkau taat kepada mereka nafsu dan setan, baik selaku musuh atau selaku hakim. Sebab engkau sudah tahu dengan nyata, bagaimana tipu dayanya dalam musuh dan menghukumi"
+  },
+  {
+    "judul": "",
+    "arab": "أَسْتَغْفِرُ اللّٰهَ مِنْ قَوْلٍ بِلَاعَمَــلٍ ۞ لَقَدْ نَسَبْتُ بِهِ نَسْلً لِذِي عُقُمِ",
+    "latin": "",
+    "terjemah": "Kumohon pengampunan kepada Allah, atas ucapan yang tanpa mengamalkan. Sungguh.. hal itu laksana orang mandul tak berketurunan"
+  },
+  {
+    "judul": "",
+    "arab": "أَمَرْتُكَ الْخَيْرَ لٰكِنْ مَا ائْتَمَرْتُ بِهِ ۞ وَمَا اسْتَقَمْتُ فَمَا قَوْلِ لَكَ اسْتَقِمِ",
+    "latin": "",
+    "terjemah": "Engkau ku perintah lakukan amal kebaikan, namun aku sendiri enggan mengerjakan. Maka tiada berguna ucapanku agar kau berlaku benar, sedangkan diriku sendiri dalam kelalaian"
+  },
+  {
+    "judul": "",
+    "arab": "وَلَا تَزَوَّدْتُ قَبْلَ الْمَوْتِ نَافِلَــةً ۞ ولَمْ أُصَلِّ سِوَى فَرْضٍ وَلَمْ أَصُمِ",
+    "latin": "",
+    "terjemah": "Dan diriku tiada menambah amal kebaikan dalam kesunahan, sebelum kematian datang. Dan tiada aku shalat dan puasa, kecuali hanya ibadah yang wajibkan."
+  }
 ]

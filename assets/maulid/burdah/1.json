@@ -1,12 +1,92 @@
 [
-    {
-      "latin": "Ar Rahman",
-      "arab": "الرَّحْمَنُ",
-      "terjemah": "Yang Maha Pengasih"
-    },
-    {
-        "latin": "Ar Rahman",
-        "arab": "الرَّحْمَنُ",
-        "terjemah": "Yang Maha Pengasih"
-    }
+  {
+    "judul": "الفصل الأول : فِي الْغَزْلِ وَشَكْوَى الْغَرَامِ",
+    "arab": "",
+    "latin": "",
+    "terjemah": "Bab I : Bercumbu dan Pengaduan Cinta"
+  },
+  {
+    "judul": "",
+    "arab": "مَوْلَايَ صَلِّي وَسَلِّـمْ دَآئِــماً أَبَـدًا ۞ عَلـــَى حَبِيْبِـكَ خَيْــرِ الْخَلْقِ كُلِّهِمِ۞",
+    "latin": "",
+    "terjemah": "Ya Tuhanku, limpahkan selalu rahmat ta'dzim dan keselamatan atas kekasih-Mu yang terbaik diantara seluruh makhluk"
+  },
+  {
+    "judul": "",
+    "arab": "هُوَالْحَبِيْبُ الَّذِيْ تُرْجَى شَفَاعَتُهُ ۞ لِكُلّ هَوْلٍ مِنَ الْأَهْوَالِ مُقْتَحِـمِ۞",
+    "latin": "",
+    "terjemah": "Dialah kekasih yang diharapkan syafa'atnya untuk menghadapi setiap peristiwa dahsyat yang menimpa umat manusia"
+  },
+  {
+    "judul": "",
+    "arab": "أَمِنْ تَذَكُّرِ جِيْرَانٍ بِذِيْ سَلَمٍ ۞ مَزَجْتَ دَمْعًا جَرَيْ مِنْ مُقْلَةٍ بِدَمِ",
+    "latin": "",
+    "terjemah": "Apakah karena mengingat para kekasih di Dzi Salam sana. Engkau deraikan air mata dengan darah duka."
+  },
+  {
+    "judul": "",
+    "arab": "أَمْ هَبَّتِ الرِّيْحُ مِنْ تِلْقَاءِ كَاظِمَةٍ ۞ وَأَوْمَضَ الْبَرْقُ فِيْ الْضَمَآءِ مِنْ إِضَمِ",
+    "latin": "",
+    "terjemah": "Ataukah karena hembusan angin terarah lurus berjumpa di Kadhimah. Dan kilatan cahaya gulita malam dari kedalaman jurang idham."
+  },
+  {
+    "judul": "",
+    "arab": "فَمَا لِعَيْنَيْكَ إِنْ قُلْتَ اكْفُفَا هَمَتَا ۞ وَمَا لِقَلْبِكَ إِنْ قُلْتَ اسْتَفِقْ يَهِمِ",
+    "latin": "",
+    "terjemah": "Mengapa kedua air matamu tetap meneteskan airmata? Padahal engkau telah berusaha membendungnya. Apa yang terjadi dengan hatimu? Padahal engkau telah berusaha menghiburnya."
+  },
+  {
+    "judul": "",
+    "arab": "أيَحَسَبُ الصَّبُّ أَنَّ الْحُبَّ مُنْكَتِمٌ ۞ مَا بَيْنَ مُنْسَجِمٍ مِنْهُ وَمُضْطَرِمِ",
+    "latin": "",
+    "terjemah": "Apakah diri yang dirundung nestapa karena cinta mengira bahwa api cinta dapat disembunyikan darinya. Di antara tetesan airmata dan hati yang terbakar membara."
+  },
+  {
+    "judul": "",
+    "arab": "لَوْلَا الْهَوَى لَمْ تُرِقْ دَمْعاً عَلَي طَـلَلٍ ۞ وَلاَ أرَقْتَ لِذِكْرِ الْبَانِ وَالْعَلَمِ",
+    "latin": "",
+    "terjemah": "Andaikan tak ada cinta yang menggores kalbu, tak mungkin engkau mencucurkan air matamu. Meratapi puing-puing kenangan masa lalu berjaga mengenang pohon ban dan gunung yang kau rindu."
+  },
+  {
+    "judul": "",
+    "arab": "فَكَيْفَ تُنْكِرُ حُبًّا بَعْدَ مَا شَهِدَتْ ۞ بِهِ عَلَيْكَ عُدُوْلُ الدَّمْعِ وَالسَّقَمِ",
+    "latin": "",
+    "terjemah": "Bagaimana kau dapat mengingkari cinta sedangkan saksi adil telah menyaksikannya. Berupa deraian air mata dan jatuh sakit amat sengsara."
+  },
+  {
+    "judul": "",
+    "arab": "وَأَثْبَتَ الْوَجْدُ خَطَّيْ عَبْرَةٍ وَّضَنًى ۞ مِثْلَ الْبَهَارِمِ عَلَى خَدَّيْكَ وَالْعَنَمِ",
+    "latin": "",
+    "terjemah": "Duka nestapa telah membentuk dua garisnya isak tangis dan sakit lemah tak berdaya. Bagai mawar kuning dan merah yang melekat pada dua pipi."
+  },
+  {
+    "judul": "",
+    "arab": "نَعَمْ سَرَى طَيْفُ مَنْ أَهْوَى فَأَرّقَنِي ۞ وَالْحُبُّ يَعْتَرِضُ اللَّذَّاتَ بِا لْأَ لَمِ",
+    "latin": "",
+    "terjemah": "Memang benar bayangan orang yang kucinta selalu hadir membangunkan tidurku untuk terjaga. Dan memang cinta sebagai penghalang bagi siempunya antara dirinya dan kelezatan cinta yang berakhir derita."
+  },
+  {
+    "judul": "",
+    "arab": "يَا لَا ئِمِي فِي الْهَوَى العُذْرِيِّ مَعْذِرَةً ۞ مِنّي إِلَيْكَ وَلَوْ أَنْصَفْتَ لَمْ تَلُمِ",
+    "latin": "",
+    "terjemah": "Wahai pencaci derita cinta kata maaf kusampaikan padamu. Aku yakin andai kau rasakan derita cinta ini tak mungkin engkau mencaci maki."
+  },
+  {
+    "judul": "",
+    "arab": "عَدَتْكَ حَا لِيَ لَاسِرِّيْ بِمُسْتَتِرٍ ۞ عَنِ الْوِشَاةِ وَلاَ دَائِيْ بِمُنْحَسِمِ",
+    "latin": "",
+    "terjemah": "Kini kau tahu keadaanku, tiada lagi rahasiaku yang tersimpan darimu. Dari orang yang suka mengadu domba dan derita cintaku tiada kunjung sirna."
+  },
+  {
+    "judul": "",
+    "arab": "مَحَّضْتَنِي النُّصْحَ لَكِنْ لَّسْتُ أَسْمَعُهُ ۞ إِنَّ الُمُحِبَّ عَنِ العُذَّالِ فِي صَمَمِ",
+    "latin": "",
+    "terjemah": "Begitu tulus nasihatmu, tapi aku tak mampu mendengar semua itu. Karena sesungguhnya orang yang dimabuk cinta tuli dan tak menggubris cacian pencela."
+  },
+  {
+    "judul": "",
+    "arab": "إِ نِّى اتَّهَمْتُ نَصِيْحَ الشَّيْبِ فِي عَذَلِي ۞ وَالشَّـيْبُ أَبْعَدُ فِي نُصْحِ عَنِ التُّهَمِ",
+    "latin": "",
+    "terjemah": "Aku curiga ubanku pun turut mencelaku. Padahal ubanku pastilah tulus memperingatkanku."
+  }
 ]
