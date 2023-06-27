@@ -1,17 +1,22 @@
 [
     {
-      "title": "dziba'"
+      "title": "dziba'",
+      "jumlahBacaan" : 28
     },
     {
-      "title": "barzanji"
+      "title": "barzanji",
+      "jumlahBacaan": 23
     },
     {
-      "title": "simtudduror"
+      "title": "simtudduror",
+      "jumlahBacaan": 17
     },
     {
-      "title": "adhiya ulami"
+      "title": "adhiyaul lami'",
+      "jumlahBacaan": 8
     },
     {
-      "title": "burdah"
+      "title": "burdah",
+      "jumlahBacaan": 10
     }
   ]
