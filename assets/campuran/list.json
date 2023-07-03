@@ -1,10 +1,12 @@
 [
   {
-    "id": "1",
-    "title": "Istighosah"
+    "no": "1",
+    "latin": "Rotib al Haddad",
+    "musik": "ratib haddad.mp3"
   },
   {
-    "id": "2",
-    "title": "Dzikir ba'da sholat"
+    "no": "2",
+    "latin": "Rotib al Athos",
+    "musik": "ratib athos.mp3"
   }
 ]

@@ -1,10 +1,12 @@
 [
   {
-    "id": "1",
-    "title": "Nadhom 1"
+    "no": "1",
+    "latin": "Nadhom 1",
+    "musik": "nadhom 1.mp3"
   },
   {
-    "id": "2",
-    "title": "Nadhom 2"
+    "no": "2",
+    "latin": "Nadhom 2",
+    "musik": "nadhom 2.mp3"
   }
 ]
