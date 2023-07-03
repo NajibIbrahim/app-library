@@ -1,12 +1,52 @@
 [
   {
     "no": "1",
-    "latin": "Ya Robbi",
-    "musik": "nama file musik"    
+    "latin": "Bab I : Bercumbu dan Pengaduan Cinta",
+    "musik": "1.mp3"
   },
   {
     "no": "2",
-    "latin": "...",
-    "musik": "nama file musik"
+    "latin": "Bab II : Peringatan tentang bahaya hawa nafsu",
+    "musik": "2.mp3"
+  },
+  {
+    "no": "3",
+    "latin": "Bab III : Pujian kepada Sang Raja para Rasul",
+    "musik": "3.mp3"
+  },
+  {
+    "no": "4",
+    "latin": "Bab IV : Kelahiran Rasulullah SAW",
+    "musik": "4.mp3"
+  },
+  {
+    "no": "5",
+    "latin": "Bab V : Mu'jizat Nabi SAW",
+    "musik": "5.mp3"
+  },
+  {
+    "no": "6",
+    "latin": "Bab VI : Kemuliaan al Qur'anul Karim dan pujian terhadapnya",
+    "musik": "6.mp3"
+  },
+  {
+    "no": "7",
+    "latin": "Bab VII : Isra Mi'raj Nabi Muhammad SAW",
+    "musik": "7.mp3"
+  },
+  {
+    "no": "8",
+    "latin": "Bab VIII : Perjuangan Nabi SAW",
+    "musik": "8.mp3"
+  },
+  {
+    "no": "9",
+    "latin": "Bab IX : Tawassul dengan Nabi SAW",
+    "musik": "9.mp3"
+  },
+  {
+    "no": "10",
+    "latin": "Bab X : Bermunajat dan meminta hajat",
+    "musik": "10.mp3"
   }
 ]
