@@ -1,3 +1,14 @@
-{
-    "isi": "Lorem ipsum \r\n dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-}
+[
+    {
+        "isi": "<p>Secara eksplisit keutamaan Maulid Diba&rsquo; tidak diragukan. Ulama sepakat dan mengamini bahwa keutamaannya sangat banyak dan tidak terhitung jumlahnya. Sebab, dengan membacanya sudah dipastikan membaca Al-Qur&rsquo;an, hadits, shalawat, dan juga sebagai media mengingat dan meneladani Rasulullah SAW pada masa hidupnya. Namun secara implisit,sebagaimana yang dijelaskan dalam kitab <i><b>at-Ta&rsquo;r&icirc;f bil Maulid</b></i>, disebutkan:<br /> </p>",
+        "arab": false
+    },
+    {
+        "isi": "<p  id=&quot;arab&quot;>المَوْلِدُ فِيْهِ سِرٌّ عَظِيْمٌ حَتَّى يَتَجَدَّدُ بِقِرَائَتِهِ مَفَاهِيْمُ جَدِيْدَةٌ</p>",
+        "arab": true
+    },
+    {
+        "isi": "<p>Artinya, <i>&ldquo;Maulid (ini), di dalamnya terdapat rahasia yang agung, (dengan membacanya) akan mendapatkan pemahaman-pemahaman baru (tentang Rasulullah SAW).&rdquo;</i>(Nuruddin, al-Jauharul Makn&ucirc;nah wal Asr&acirc;rul Makhz&ucirc;nah, halaman 16).<br /><br />Pemahaman-pemahaman baru yang didapatkan pembaca merupakan bagian dari rahasia agung yang terdapat dalam Maulid Diba&rsquo;. Seolah pembaca tidak hanya memiliki jaminan pahala dengan membacanya, namun juga akan ada jaminan penambahan pengetahuan dan kecintaan kepada Rasulullah SAW.<br /></p>",
+        "arab": false
+    }
+]
