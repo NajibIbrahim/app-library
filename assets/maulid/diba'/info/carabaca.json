@@ -1,3 +1,22 @@
-{
-    "isi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-}
+[
+    {
+        "isi": "<p>Maulid Diba' merupakan salah satu kitab maulid yang dibaca dalam rangka meneladani s&icirc Rasulullah SAW sekaligus bershalawat kepadanya. Hendaknya Maulid Diba' dibaca di tempat yang layak, penuh adab dan sopan, serta dalam keadaan suci. Sebab, mengagungkannya sama dengan mengagungkan sosok yang dibacanya, yaitu Rasulullah SAW. Sedangkan tata cara pengamalannya secara khusus, yaitu dengan beberapa tahap sebagai berikut:<br /><br />Pertama, membaca surat Al-Fatihah dan dihadiahkan kepada Rasulullah SAW dan Imam ad-Diba'i.<br /><br />Kedua, membaca seruan dan ajakan kepada para hadirin untuk bershalawat kepada Rasulullah SAW dengan kalimat sebagai berikut:<br />",
+        "arab": false
+    },
+    {
+        "isi": "</p><p>فَيَا أَيُّهَا الرَّاجُوْنَ مِنْهُ شَفَاعَةً صَلُّوْا عَلَيْهِ وَسَلِّمُوْا تَسْلِيْمًا. وَيَا أَيُهَا الْمُشْتَقُوْنَ إِلَى رُؤْيَة جَمَالِهِ، صَلُّوْا عَلَيْهِ وَسَلِّمُوْا تَسْلِيْمًا. وَيَا مَنْ يَخْطُبُ وِصَالَهُ يَقْظَةً وَمَنَامًا صَلُّوْا عَلَيْهِ وَسَلِّمُوْا تَسْلِيْمًا</p>",
+        "arab": true
+    },
+    {
+        "isi": "<p>Artinya :<i>&ldquo;Wahai orang-orang yang mengharapkan syafaat dari Rasulullah SAW, bershalawatlah dan ucapkanlah salam kepadanya. Wahai orang-orang yang rindu melihat ketampanannya, bershalawatlah dan ucapkanlah salam kepadanya. Wahai orang-orang yang mengharapkan pertemuan dengannya; saat sadar dan tidur, bershalawatlah dan ucapkanlah salam kepadanya.&rdquo;</i><br /><br />Bisa juga setelah membaca surat al-Fatihah lalu disusul dengan membacashalawat berikut:<br /></p>",
+        "arab": false
+    },
+    {
+        "isi": "<p>يَا رَسُوْلَ الله سَلَامٌ عَلَيْك *** يَا رَفِيْعَ الشَّانِ وَالدَّرَجِ <br />عَطْفَةً يَاجِيْرَةَ الْعَلَمِ *** يَا أُهَيْلَ الْجُوْدِوَالْكَرَمِ&nbsp; (الخ) <br /></p>",
+        "arab": true
+    },
+    {
+        "isi": "<p>Artinya :<br /><i>&ldquo;Wahai utusan Allah! Semoga keselamatan tetap padamu. Wahaiorang yang berbudi luhur dan bermartabat tinggi. <br />Rasa kasihmu wahai pemimpin tetangga. Wahai ahli dermawan dan pemurahhati. (sampai selesai).&rdquo;</i><br /><br />Selanjutnya membaca bacaan yang sudah tertera dalam Maulid Diba'.</p>",
+        "arab": false
+    }
+]
