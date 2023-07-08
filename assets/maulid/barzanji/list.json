@@ -1,12 +1,112 @@
 [
   {
     "no": "1",
-    "latin": "Ya Robbi",
-    "musik": "nama file musik"    
+    "latin": "Ya Robbi sholli",
+    "musik": "1.mp3"
   },
   {
     "no": "2",
-    "latin": "...",
-    "musik": "nama file musik"
+    "latin": "Laqod ja akum",
+    "musik": "2.mp3"
+  },
+  {
+    "no": "3",
+    "latin": "Ya Rosulallah salamun 'alaik",
+    "musik": "3.mp3"
+  },
+  {
+    "no": "4",
+    "latin": "Abtadiul imla'",
+    "musik": "4.mp3"
+  },
+  {
+    "no": "5",
+    "latin": "Waba'du fa aqulu",
+    "musik": "5.mp3"
+  },
+  {
+    "no": "6",
+    "latin": "Walamma aradallah",
+    "musik": "6.mp3"
+  },
+  {
+    "no": "7",
+    "latin": "Walamma tamma",
+    "musik": "7.mp3"
+  },
+  {
+    "no": "8",
+    "latin": "Wabaroza SAW",
+    "musik": "8.mp3"
+  },
+  {
+    "no": "9",
+    "latin": "Wadzoharo 'inda",
+    "musik": "9.mp3"
+  },
+  {
+    "no": "10",
+    "latin": "Mahallul Qiyam",
+    "musik": "10.mp3"
+  },
+  {
+    "no": "11",
+    "latin": "Wa ardloathu",
+    "musik": "11.mp3"
+  },
+  {
+    "no": "12",
+    "latin": "Wakana SAW",
+    "musik": "12.mp3"
+  },
+  {
+    "no": "13",
+    "latin": "Walamma balagho 4",
+    "musik": "13.mp3"
+  },
+  {
+    "no": "14",
+    "latin": "Walamma balagho 25",
+    "musik": "14.mp3"
+  },
+  {
+    "no": "15",
+    "latin": "Walamma balagho 35",
+    "musik": "15.mp3"
+  },
+  {
+    "no": "16",
+    "latin": "Walamma kamula 40",
+    "musik": "16.mp3"
+  },
+  {
+    "no": "17",
+    "latin": "Wa awwalu man amana",
+    "musik": "17.mp3"
+  },
+  {
+    "no": "18",
+    "latin": "Tsumma usriya",
+    "musik": "18.mp3"
+  },
+  {
+    "no": "19",
+    "latin": "Tsumma arodlo",
+    "musik": "19.mp3"
+  },
+  {
+    "no": "20",
+    "latin": "Wamarro SAW",
+    "musik": "20.mp3"
+  },
+  {
+    "no": "21",
+    "latin": "Wakana SAW akmalannasi",
+    "musik": "21.mp3"
+  },
+  {
+    "no": "22",
+    "latin": "Wakana SAW syadida",
+    "musik": "22.mp3"
   }
 ]

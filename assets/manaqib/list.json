@@ -1,26 +1,67 @@
 [
-    {
-        "title": "bab 1'"
-    },
-    {
-        "title": "bab 2"
-    },
-    {
-        "title": "bab 3'"
-    },
-    {
-        "title": "bab 4"
-    },
-    {
-        "title": "bab 5'"
-    },
-    {
-        "title": "bab 6"
-    },
-    {
-        "title": "bab 7'"
-    },
-    {
-        "title": "ibadallah"
-    }
+  {
+    "no": "1",
+    "latin": "Bab 1",
+    "musik": "1.mp3"
+  },
+  {
+    "no": "2",
+    "latin": "Bab 2",
+    "musik": "2.mp3"
+  },
+  {
+    "no": "3",
+    "latin": "Bab 3",
+    "musik": "3.mp3"
+  },
+  {
+    "no": "4",
+    "latin": "Bab 4",
+    "musik": "4.mp3"
+  },
+  {
+    "no": "5",
+    "latin": "Bab 5",
+    "musik": "5.mp3"
+  },
+  {
+    "no": "6",
+    "latin": "Bab 6",
+    "musik": "6.mp3"
+  },
+  {
+    "no": "7",
+    "latin": "Bab 7",
+    "musik": "7.mp3"
+  },
+  {
+    "no": "8",
+    "latin": "Do'a ke 1",
+    "musik": "8.mp3"
+  },
+  {
+    "no": "9",
+    "latin": "Do'a ke 2 ('Ibadallah)",
+    "musik": "9.mp3"
+  },
+  {
+    "no": "10",
+    "latin": "Do'a ke 3",
+    "musik": "10.mp3"
+  },
+  {
+    "no": "11",
+    "latin": "Ya Arhamarrohimin",
+    "musik": "11.mp3"
+  },
+  {
+    "no": "12",
+    "latin": "La ilaha illa Allah",
+    "musik": "12.mp3"
+  },
+  {
+    "no": "13",
+    "latin": "Do'a Penutup",
+    "musik": "13.mp3"
+  }
 ]
